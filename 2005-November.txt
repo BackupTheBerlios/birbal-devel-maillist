@@ -1,0 +1,134 @@
+From lawgon at thenilgiris.com  Wed Nov 23 03:43:20 2005
+From: lawgon at thenilgiris.com (Kenneth Gonsalves)
+Date: Wed, 23 Nov 2005 08:13:20 +0530
+Subject: [Birbal-devel] Re: egov software
+In-Reply-To: <4e9d48490511221313i7843b13dhc42dd4f8e4afd8a0@mail.gmail.com>
+References: <200511211219.14834.lawgon@thenilgiris.com> <200511220854.30870.lawgon@thenilgiris.com> <4e9d48490511221313i7843b13dhc42dd4f8e4afd8a0@mail.gmail.com>
+Message-ID: <200511230813.20857.lawgon@thenilgiris.com>
+
+On Wednesday 23 Nov 2005 2:43 am, you wrote:
+> Let us start with Birth and Death registration Module for
+> Municipalities.  This will be linked to immunisatrion module.
+
+ok. how would you like to proceed? We would need you to give the 
+system study on which we would develop the module which will be 
+online so you can test and give us the feedback to perfect it. We 
+are developing using an svn repository in berlios.de. The system 
+study will also be put up there. There are three ways you can 
+interact with us:
+1. by mail to us individually 
+2. by mail to the birbal-devel mailing list
+3. by directly commiting to the repository and discussing this on 
+the mailing list.
+
+The third option is most preferrable as it offers complete 
+interaction. You will need to learn a little bit of svn commands - 
+just three or four commands are enough, if you are not familiar 
+with it we can guide you in this. Please let us know your 
+preference and we can get started.
+>
+> Dr Sanjay Bedi
+>
+> On 11/22/05, Kenneth Gonsalves <lawgon at thenilgiris.com> wrote:
+> > On Monday 21 Nov 2005 8:12 pm, you wrote:
+> > > May I know your address /phone no and a brief introduction of
+> > > the people doing this project.
+> >
+> > The project is entitled 'birbal' and currently hosted on
+> > berlios.de. There are no files put up. The developers signed up
+> > are:
+> >
+> > 1. Baishampayan Ghose: A Computer Sci. & Engg. Student & a Free
+> > Software developer. He is an experienced  Python developer and
+> > a active member of the  Free Software  community. He has  some
+> > i18n  experience while leading the Bengali translation  effort
+> > of Debian-Installer, Drupal & Django. He is also a member  of
+> > the Free Software Foundation of India working committee.
+> >    Email - b.ghose at gnu.org.in
+> >
+> > 2. Kenneth  Gonsalves:  A  Free  &  Open  source  Developer. 
+> > Resume  is http://avsap.org.in. He is the developer of the said
+> > software and administers the site.
+> >    Email - lawgon at thenilgiris.com
+> >
+> > My address:
+> > kenneth gonsalves
+> > law chambers
+> > commissioners road
+> > ootacamund the nilgiris tamilnadu 643001
+> > phone: 9894277627
+> >
+> > There are a few more ppl who will be joining once they see some
+> > files put up and are convinced that this is not just
+> > 'vapourware'
+> >
+> >
+> > --
+> > regards
+> > kg
+> >
+> > http://www.livejournal.com/users/lawgon
+> > tally ho! http://avsap.org.in
+> > ?????????? ?????!
+>
+> --
+> Dr Sanjay Bedi
+> Assoc.Prof. Deptt of Pathology
+> Sri Guru Ram Das Institute of Medical Sciences Amritsar,Punjab
+> India Mobile phone: 09356000639, 9815039366
+> Landline nos : 0183-2589808EXT222 (Office) 0183-2503785 (Home)
+> Home and preferred postal address: 366 Green Avenue, Amritsar
+> ,Punjab Website www.drsanjaybedi.com
+
+-- 
+regards
+kg
+
+http://www.livejournal.com/users/lawgon
+tally ho! http://avsap.org.in
+?????????? ?????!
+
+
+From lawgon at thenilgiris.com  Thu Nov 24 12:23:09 2005
+From: lawgon at thenilgiris.com (Kenneth Gonsalves)
+Date: Thu, 24 Nov 2005 16:53:09 +0530
+Subject: [Birbal-devel] Re: egov software
+In-Reply-To: <4e9d48490511240236n5146fd0bt62f9f67c1ebdaa51@mail.gmail.com>
+References: <200511211219.14834.lawgon@thenilgiris.com> <200511230813.20857.lawgon@thenilgiris.com> <4e9d48490511240236n5146fd0bt62f9f67c1ebdaa51@mail.gmail.com>
+Message-ID: <200511241653.09835.lawgon@thenilgiris.com>
+
+On Thursday 24 Nov 2005 4:06 pm, you wrote:
+> What is a system study in Computer terminology.
+
+for registration of births and deaths a systems study means what 
+data has to be entered and what the workflow should be: Something 
+like this for births:
+
+workflow
+1. birth reported (verbally written through the web)
+2. report recorded
+3. report verified
+4. verification checked
+5 information entered into the register
+6. inacuracies, corrections, deletions - how are they dealt with
+data
+fathers name, mothers name - what data is needed
+of this data what is public and what is confidential
+
+Similarly for registration of death
+
+If we have these details we can set up the module and fine-tune it. 
+If you could mail this with sample data, we will put it online and 
+then you could access and tell us how to improve it.
+
+The next step would be the immunisation schedule
+
+-- 
+regards
+kg
+
+http://www.livejournal.com/users/lawgon
+tally ho! http://avsap.org.in
+?????????? ?????!
+
+

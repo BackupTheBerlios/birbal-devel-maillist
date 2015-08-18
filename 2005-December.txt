@@ -1,0 +1,111 @@
+From lawgon at thenilgiris.com  Fri Dec  2 12:59:50 2005
+From: lawgon at thenilgiris.com (Kenneth Gonsalves)
+Date: Fri, 2 Dec 2005 17:29:50 +0530
+Subject: [Birbal-devel] Re: egov software
+In-Reply-To: <4e9d48490512020345o79ce32beq17894949aa0817a0@mail.gmail.com>
+References: <200511211219.14834.lawgon@thenilgiris.com> <200512021550.53725.lawgon@thenilgiris.com> <4e9d48490512020345o79ce32beq17894949aa0817a0@mail.gmail.com>
+Message-ID: <200512021729.50682.lawgon@thenilgiris.com>
+
+On Friday 02 Dec 2005 5:15 pm, you wrote:
+> I will have to go to local Civil Surgeon's office to get an exact
+> real time stepwise procedure for this purpose. will send you the
+> details.
+
+great - scanned copy of the various forms, certificates and 
+registers would be a big plus.
+-- 
+regards
+kg
+
+http://www.livejournal.com/users/lawgon
+tally ho! http://avsap.org.in
+?????????? ?????!
+
+
+From lawgon at thenilgiris.com  Sun Dec  4 03:16:35 2005
+From: lawgon at thenilgiris.com (Kenneth Gonsalves)
+Date: Sun, 4 Dec 2005 07:46:35 +0530
+Subject: [Birbal-devel] coding style
+Message-ID: <200512040746.35967.lawgon@thenilgiris.com>
+
+we need a stylesheet for coding style to be strictly enforced in the 
+project - anything readymade that can be suggested? or do we make 
+our own?
+-- 
+regards
+kg
+
+http://www.livejournal.com/users/lawgon
+tally ho! http://avsap.org.in
+?????????? ?????!
+
+
+From b.ghose at gnu.org.in  Sun Dec  4 04:43:39 2005
+From: b.ghose at gnu.org.in (Baishampayan Ghose)
+Date: Sun, 4 Dec 2005 09:13:39 +0530
+Subject: [Birbal-devel] coding style
+In-Reply-To: <200512040746.35967.lawgon@thenilgiris.com>
+References: <200512040746.35967.lawgon@thenilgiris.com>
+Message-ID: <fb49d0e80512031943k7a9828f6l73fbb683d2ff6268@mail.gmail.com>
+
+KG,
+> we need a stylesheet for coding style to be strictly enforced in the
+> project - anything readymade that can be suggested? or do we make
+> our own?
+Do you mean a CSS stylesheet? Or Python coding standards? How can a
+CSS stylesheet enforce a coding style?
+Regards,
+BG
+
+--
+Baishampayan Ghose
+Free Software Foundation of India
+b.ghose at gnu.org.in
+
+
+From lawgon at thenilgiris.com  Sun Dec  4 08:00:29 2005
+From: lawgon at thenilgiris.com (Kenneth Gonsalves)
+Date: Sun, 4 Dec 2005 12:30:29 +0530
+Subject: [Birbal-devel] coding style
+In-Reply-To: <fb49d0e80512031943k7a9828f6l73fbb683d2ff6268@mail.gmail.com>
+References: <200512040746.35967.lawgon@thenilgiris.com> <fb49d0e80512031943k7a9828f6l73fbb683d2ff6268@mail.gmail.com>
+Message-ID: <200512041230.29962.lawgon@thenilgiris.com>
+
+On Sunday 04 Dec 2005 9:13 am, Baishampayan Ghose wrote:
+>  Or Python coding standards?
+
+python coding standards
+
+-- 
+regards
+kg
+
+http://www.livejournal.com/users/lawgon
+tally ho! http://avsap.org.in
+?????????? ?????!
+
+
+From b.ghose at gnu.org.in  Sun Dec  4 08:38:14 2005
+From: b.ghose at gnu.org.in (Baishampayan Ghose)
+Date: Sun, 4 Dec 2005 13:08:14 +0530
+Subject: [Birbal-devel] coding style
+In-Reply-To: <200512041230.29962.lawgon@thenilgiris.com>
+References: <200512040746.35967.lawgon@thenilgiris.com>
+	 <fb49d0e80512031943k7a9828f6l73fbb683d2ff6268@mail.gmail.com>
+	 <200512041230.29962.lawgon@thenilgiris.com>
+Message-ID: <fb49d0e80512032338y5d0c2946i8c01d02b8e6ead83@mail.gmail.com>
+
+KG,
+> >  Or Python coding standards?
+> python coding standards
+Simple. We follow PEP #8
+http://python.org/peps/pep-0008.html
+Regards,
+BG
+
+--
+Baishampayan Ghose
+Free Software Foundation of India
+b.ghose at gnu.org.in
+
+
